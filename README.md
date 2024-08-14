@@ -1,4 +1,7 @@
 # Prueba Técnica
+
+Este proyecto es una aplicación para gestionar productos financieros de un banco, permitiendo visualizar, buscar, agregar, editar y eliminar productos. Se integra con una API para la carga de datos y sigue diseños específicos para una experiencia de usuario óptima.
+
 ## Frontend – React (2024)
 
 **Indicaciones generales**
